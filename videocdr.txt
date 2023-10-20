@@ -1,0 +1,32 @@
+VideoCDR(callId=VC54479, startTime=Fri Oct 20 10:10:48 IST 2023, endTime=Fri Oct 20 11:10:48 IST 2023, callDuration=60, hostCallerNumber=+917754987263, hostCallStatus=Busy, participants=  - Participant 1: +917910690616 (Disconnected)
+  - Participant 2: +917130476661 (Busy)
+  - Participant 3: +919436812607 (Busy)
+, callStatus=null, callType=Video Conference, videoQualityMetrics=Resolution: 1280x720
+Frame Rate: 26 fps
+Packet Loss Rate: 3.4%
+Bitrate: 7.10 Mbps, callDirection=null)VideoCDR(callId=VC85453, startTime=Fri Oct 20 10:04:48 IST 2023, endTime=Fri Oct 20 11:10:48 IST 2023, callDuration=66, hostCallerNumber=+916371905120, hostCallStatus=Connected, participants=  - Participant 1: +919762876110 (Busy)
+  - Participant 2: +916573161978 (Busy)
+  - Participant 3: +917958476074 (Connected)
+  - Participant 4: +919410914193 (Connected)
+, callStatus=null, callType=Video Conference, videoQualityMetrics=Resolution: 1280x720
+Frame Rate: 22 fps
+Packet Loss Rate: 2.6%
+Bitrate: 9.17 Mbps, callDirection=null)VideoCDR(callId=VC25363, startTime=Fri Oct 20 09:57:48 IST 2023, endTime=Fri Oct 20 11:10:48 IST 2023, callDuration=73, hostCallerNumber=+917598315579, hostCallStatus=Connected, participants=  - Participant 1: +918973297355 (Busy)
+, callStatus=null, callType=Video Conference, videoQualityMetrics=Resolution: 1920x1080
+Frame Rate: 24 fps
+Packet Loss Rate: 4.3%
+Bitrate: 5.89 Mbps, callDirection=null)VideoCDR(callId=VC86095, startTime=Fri Oct 20 10:03:48 IST 2023, endTime=Fri Oct 20 11:10:48 IST 2023, callDuration=67, hostCallerNumber=+917186024117, hostCallStatus=Busy, participants=  - Participant 1: +919572657279 (Disconnected)
+  - Participant 2: +919201864909 (Busy)
+  - Participant 3: +918632423962 (Busy)
+, callStatus=null, callType=Video Conference, videoQualityMetrics=Resolution: 1920x1080
+Frame Rate: 21 fps
+Packet Loss Rate: 2.3%
+Bitrate: 7.91 Mbps, callDirection=null)VideoCDR(callId=VC16810, startTime=Fri Oct 20 09:19:48 IST 2023, endTime=Fri Oct 20 11:10:48 IST 2023, callDuration=111, hostCallerNumber=+918451197898, hostCallStatus=Disconnected, participants=  - Participant 1: +917748587716 (Disconnected)
+  - Participant 2: +919558921538 (Disconnected)
+  - Participant 3: +917343344661 (Busy)
+  - Participant 4: +917727408736 (Disconnected)
+  - Participant 5: +918249503037 (Busy)
+, callStatus=null, callType=Video Conference, videoQualityMetrics=Resolution: 1920x1080
+Frame Rate: 29 fps
+Packet Loss Rate: 0.3%
+Bitrate: 9.84 Mbps, callDirection=null)
